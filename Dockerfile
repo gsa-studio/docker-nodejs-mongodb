@@ -37,4 +37,4 @@ WORKDIR /data
 EXPOSE 27017
 
 # Define default command.
-CMD ["run.sh"]
+CMD ["bash"]
