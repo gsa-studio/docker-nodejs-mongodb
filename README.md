@@ -13,7 +13,7 @@ This repository contains **Dockerfile** of [MongoDB](http://www.mongodb.org/) an
 
 1. Install [Docker](https://www.docker.com/).
 
-2. (alternatively, you can build an image from Dockerfile: `docker build -t="gsa-studio/nodejs-mongodb" github.com/gsa-studio/dockerfile-nodejs-mongodb`)
+2. You can build an image from Dockerfile: `docker build -t="gsa-studio/nodejs-mongodb" github.com/gsa-studio/dockerfile-nodejs-mongodb`
 
 
 ### Usage
